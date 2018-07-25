@@ -1,0 +1,6 @@
+class user:
+  pass
+  user1=user()
+  user1.first_name="Shovon
+  User1.last_name="das"
+  Print("user1.first_name")
